@@ -67,14 +67,17 @@ Benchmarked ResNet18, MobileNetV2, EfficientNet-B0, and a Custom CNN on satellit
 
 ---
 
-### GitHub Stats
+GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishekkl14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkl14&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkl14&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishekkl14&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=8892b0&icon_color=8892b0&text_color=eaeaea&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkl14&layout=compact&theme=github_dark&hide_border=true&title_color=8892b0&text_color=eaeaea&bg_color=0d1117" width="39%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekkl14&theme=github-compact&hide_border=true&bg_color=0d1117&color=8892b0&line=00c6ff&point=eaeaea" width="90%"/>
+</div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
+<sub>Open to Data Engineering · Data Analytics · ML Engineering roles — let's connect</sub>
 
 </div>
 
