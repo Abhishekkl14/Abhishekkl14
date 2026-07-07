@@ -133,7 +133,6 @@ ResNet18, MobileNetV2, EfficientNet-B0, CustomCNN — 98.44% val. accuracy — D
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishekkl14&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=8892b0&icon_color=00c6ff&text_color=eaeaea&bg_color=0d1117" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkl14&layout=compact&theme=dark&hide_border=true&title_color=8892b0&text_color=eaeaea&bg_color=0d1117&langs_count=8" width="39%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekkl14&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=eaeaea" width="90%"/>
 
 </div>
 
