@@ -128,16 +128,10 @@ ResNet18, MobileNetV2, EfficientNet-B0, CustomCNN — 98.44% val. accuracy — D
 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishekkl14&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=10" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishekkl14&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="90%"/>
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkl14&layout=donut&theme=radical&hide_border=true&border_radius=10&langs_count=8" width="55%"/>
-<br/><br/>
-
-<img src="https://github-readme-trophies.vercel.app/?username=Abhishekkl14&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkl14&theme=radical&hide_border=true&border_radius=10" width="70%"/>
 </div>
 <br/>
 <div align="center">
