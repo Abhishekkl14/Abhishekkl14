@@ -128,6 +128,7 @@ ResNet18, MobileNetV2, EfficientNet-B0, CustomCNN — 98.44% val. accuracy — D
 <br/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
+  
 <sub>Open to Data Engineering · Data Analytics · ML Engineering roles — let's connect</sub>
 
 </div>
