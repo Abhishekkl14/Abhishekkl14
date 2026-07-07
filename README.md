@@ -125,14 +125,6 @@ ResNet18, MobileNetV2, EfficientNet-B0, CustomCNN — 98.44% val. accuracy — D
 - Machine Learning A–Z — Udemy
 
 <br/>
-GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishekkl14&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="90%"/>
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkl14&layout=donut&theme=radical&hide_border=true&border_radius=10&langs_count=8" width="55%"/>
-</div>
 <br/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
