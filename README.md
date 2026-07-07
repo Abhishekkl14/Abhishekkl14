@@ -13,10 +13,15 @@ About Me
 
 
 🎓 MCA (Machine Learning specialization), Mangalore — graduated Nov 2025
+
 💼 Currently IT Admin at Dwaraka Corporation Pvt Ltd, managing Zoho CRM (1,000+ enterprise contacts), WATI/WhatsApp Business API, and SQL-based reporting
+
 🧪 Former ML Intern at Aptra Technologies, building CNN-based image classification & facial emotion detection with TensorFlow/PyTorch
+
 🔭 Actively seeking roles in Data Engineering, Data Analytics & ML Engineering
+
 📄 Published researcher — Satellite-Based Disaster Detection Using CNN Ensembles, presented at DRISHTI 2025 (98.44% validation accuracy with EfficientNet-B0)
+
 📍 Based in Mangaluru, India — open to Bengaluru & other major tech hubs
 
 ## Experience
