@@ -1,32 +1,23 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=180&section=header&text=ABHISHEK%20B%20S&fontSize=48&fontColor=eaeaea&fontAlignY=45&desc=Data%20Engineer%20%26%20Analyst%20%7C%20ML%20Researcher&descAlignY=70&descSize=18&descColor=8892b0" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Hi%20There%2C%20I'm%20Abhi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<a href="https://github.com/Abhishekkl14">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Analyst;MCA+(ML+Specialization)+%7C+Published+Researcher;Building+AI-Powered+Tools+%26+Data+Pipelines;Open+to+Data+%2F+ML+Engineering+Roles" alt="Typing SVG" />
+</a>
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhishekkl14&color=blueviolet&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-bs0018)
-[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=gmail)](mailto:abhishekbs242@gmail.com)
-[![Resume](https://img.shields.io/badge/-Resume-333333?style=flat-square&logo=readdotcv)](RESUME_LINK_HERE)
+<a href="https://www.linkedin.com/in/abhishek-bs0018"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abhishekbs242@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-00C6FF?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 
 </div>
+About Me
 
-<br/>
 
-## Profile
-
-```yaml
-name: "Abhishek B S"
-role: "Data Engineer & Analyst"
-education: "MCA (Machine Learning Specialization) — Mangalore, Nov 2025"
-current: "IT Admin @ Dwaraka Corporation Pvt Ltd"
-focus: ["Data Engineering", "Data Analytics", "ML Engineering"]
-publication: "DRISHTI 2025 — Satellite-Based Disaster Detection Using CNN Ensembles"
-location: "Mangaluru, India"
-status: "Open to opportunities in Bengaluru & major tech hubs"
-```
-
-<br/>
+🎓 MCA (Machine Learning specialization), Mangalore — graduated Nov 2025
+💼 Currently IT Admin at Dwaraka Corporation Pvt Ltd, managing Zoho CRM (1,000+ enterprise contacts), WATI/WhatsApp Business API, and SQL-based reporting
+🧪 Former ML Intern at Aptra Technologies, building CNN-based image classification & facial emotion detection with TensorFlow/PyTorch
+🔭 Actively seeking roles in Data Engineering, Data Analytics & ML Engineering
+📄 Published researcher — Satellite-Based Disaster Detection Using CNN Ensembles, presented at DRISHTI 2025 (98.44% validation accuracy with EfficientNet-B0)
+📍 Based in Mangaluru, India — open to Bengaluru & other major tech hubs
 
 ## Experience
 
