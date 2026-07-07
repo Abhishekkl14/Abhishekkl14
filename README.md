@@ -125,13 +125,19 @@ ResNet18, MobileNetV2, EfficientNet-B0, CustomCNN — 98.44% val. accuracy — D
 - Machine Learning A–Z — Udemy
 
 <br/>
-
 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishekkl14&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=8892b0&icon_color=00c6ff&text_color=eaeaea&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkl14&layout=compact&theme=dark&hide_border=true&title_color=8892b0&text_color=eaeaea&bg_color=0d1117&langs_count=8" width="39%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekkl14&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=eaeaea" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishekkl14&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=10" width="90%"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkl14&layout=donut&theme=radical&hide_border=true&border_radius=10&langs_count=8" width="55%"/>
+<br/><br/>
+
+<img src="https://github-readme-trophies.vercel.app/?username=Abhishekkl14&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkl14&theme=radical&hide_border=true&border_radius=10" width="70%"/>
 </div>
 <br/>
 <div align="center">
