@@ -22,7 +22,7 @@ About Me
 
 📄 Published researcher — Satellite-Based Disaster Detection Using CNN Ensembles, presented at DRISHTI 2025 (98.44% validation accuracy with EfficientNet-B0)
 
-📍 Based in Mangaluru, India — open to Bengaluru & other major tech hubs
+📍 Based in Kasaragod, India 
 
 ## Experience
 
