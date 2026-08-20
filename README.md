@@ -27,8 +27,16 @@ About Me
 ## Experience
 
 <table>
+  <tr>
+<td width="140"><b>Aug  2026 – Present</b></td>
+<td>
+<b>Software Developer Intern</b> · Romeo Bravo Software, Chennai<br/>
+<sub>A Vehicle Service & Workshop Management System designed to streamline day-to-day workshop operations and improve the service experience for customers </sub>
+</td>
+</tr>
+<tr
 <tr>
-<td width="140"><b>Mar 2026 – Present</b></td>
+<td width="140"><b>Mar 2026 – July 2026</b></td>
 <td>
 <b>IT Admin</b> · Dwaraka Corporation Pvt Ltd, Puttur<br/>
 <sub>Managed Zoho CRM across 1,000+ enterprise contacts · Administered WATI/WhatsApp Business API · Built SQL queries for reporting & dashboards</sub>
